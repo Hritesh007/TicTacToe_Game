@@ -9,7 +9,9 @@
  # INSTRUCTION
  
  To run this file,dowload [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) in your pc :computer:
- After that you can open and install the downloader file in your Android Startphone (Tic-tac-toe.apk)
+ After that you can clone the code using "git clone https://github.com/Hritesh007/TicTacToe_Game.git " and edit it in [Android Studio](https://developer.android.com/studio)
+ 
+ open and install the apk file (Tic-tac-toe.apk) in your Android Startphone and I hope you enjoy the game !!
  
  # Thank You For Downloading The Project :smile:
  
