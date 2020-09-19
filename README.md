@@ -16,7 +16,6 @@
  # :hearts:
  
  # SCREENSHOT
- ![o2](https://user-images.githubusercontent.com/41838155/64104460-e22c0b00-cd91-11e9-9672-bee1dae16ccd.PNG)
-
+ ![WhatsApp Image 2020-09-19 at 10 30 53 PM](https://user-images.githubusercontent.com/41838155/93672356-dfe53d80-fac7-11ea-83eb-13a21c1ea762.jpeg)
  
 
