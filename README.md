@@ -3,7 +3,8 @@
  This is a simple TicTacToe Game made using Java in Android Studio :hearts:
  
  # DOWNLOAD
- Download the [TicTacToe apk](https://raw.githubusercontent.com/Hritesh007/TicTacToe_Game/app/app-debug.apk)  :+1:
+ 
+ Download the [TicTacToe apk](https://github.com/Hritesh007/TicTacToe_Game/raw/master/app/app-debug.apk)  :+1:
  
  # INSTRUCTION
  
