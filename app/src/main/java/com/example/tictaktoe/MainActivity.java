@@ -173,6 +173,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
     private void addCombo(String combination,View v)
     {
+        checkPlayerWon();
         ImageView miv=(ImageView)v;
 
         if(isPlayer1)
@@ -190,7 +191,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             mtvp2.setAlpha(0.5f);
             mtvp1.setAlpha(1.0f);
         }
-        checkPlayerWon();
+        
 
     }
     private void checkPlayerWon()
